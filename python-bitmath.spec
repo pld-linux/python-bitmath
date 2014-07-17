@@ -7,12 +7,12 @@
 %define 	module	bitmath
 Summary:	Module for representing file sizes with different prefix notations
 Name:		python-%{module}
-Version:	1.0.5
+Version:	1.0.6
 Release:	1
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://github.com/tbielawa/bitmath/archive/%{version}-1.tar.gz
-# Source0-md5:	0fd40d2154a78d6809d37a6b74d9f3af
+# Source0-md5:	b589c9ceb7f518da043e089d519e8579
 URL:		https://github.com/tbielawa/bitmath
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.219
