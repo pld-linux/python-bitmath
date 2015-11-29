@@ -15,7 +15,7 @@ Source0:	https://github.com/tbielawa/bitmath/archive/%{version}-1.tar.gz
 # Source0-md5:	b589c9ceb7f518da043e089d519e8579
 URL:		https://github.com/tbielawa/bitmath
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 %if %{with python2}
 BuildRequires:	python-distribute
 %endif
