@@ -8,7 +8,7 @@
 Summary:	Module for representing file sizes with different prefix notations
 Name:		python-%{module}
 Version:	1.0.6
-Release:	10
+Release:	11
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://github.com/tbielawa/bitmath/archive/%{version}-1.tar.gz
